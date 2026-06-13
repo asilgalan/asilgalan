@@ -25,13 +25,11 @@ Mi enfoque es **Cloud Native** por convicción. El código que no está desplega
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
 
 **Frontend & Mobile**
 
@@ -52,9 +50,9 @@ Mi enfoque es **Cloud Native** por convicción. El código que no está desplega
 
 | Certificación | Estado |
 |---|---|
-| 🛡️ Azure Developer Associate — AZ-204 | ✅ Obtenida |
-| ⚙️ Power Platform Developer — PL-400 | ✅ Obtenida |
-| ☁️ AWS Certified Developer — DVA-C02 | ✅ Obtenida |
+| 🛡️ [Azure Developer Associate — AZ-204](https://learn.microsoft.com/es-es/users/asilgalan-6611/credentials/a7f4a16e581c3914) | ✅ Obtenida |
+| ⚙️ [Power Platform Developer — PL-400](https://learn.microsoft.com/es-es/users/AsilGalnCastro-0064/credentials/BFADAD6009EEB9BE) | ✅ Obtenida |
+| ☁️ [AWS Certified Developer — DVA-C02](https://www.credly.com/badges/86431cc9-03d2-422f-98f3-1ea529e48c7d) | ✅ Obtenida |
 
 ---
 
