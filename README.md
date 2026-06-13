@@ -5,7 +5,7 @@
 **Backend Engineer · Cloud Native · SaaS Builder**
 
 [![Email](https://img.shields.io/badge/asilgalan083%40icloud.com-0A0A0A?style=flat-square&logo=apple&logoColor=white)](mailto:asilgalan083@icloud.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/asil-galan-castro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asil-galan-castro/)
 
 </div>
 
