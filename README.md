@@ -24,15 +24,14 @@ Mi enfoque es **Cloud Native** por convicción. El código que no está desplega
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
 
 **Frontend & Mobile**
 
@@ -55,7 +54,7 @@ Mi enfoque es **Cloud Native** por convicción. El código que no está desplega
 |---|---|
 | 🛡️ Azure Developer Associate — AZ-204 | ✅ Obtenida |
 | ⚙️ Power Platform Developer — PL-400 | ✅ Obtenida |
-| ☁️ AWS Certified Developer — DVA-C02 | 🔄 En preparación |
+| ☁️ AWS Certified Developer — DVA-C02 | ✅ Obtenida |
 
 ---
 
