@@ -60,7 +60,7 @@ Mi enfoque es **Cloud Native** por convicción. El código que no está desplega
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asilgalan&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilgalan&layout=compact&theme=github_dark_dimmed&hide_border=true&hide=html,css,javascript,scss,shell,vue,typescript" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilgalan&layout=compact&theme=github_dark_dimmed&hide_border=true&hide=html,css,javascript,scss,shell,vue,typescript,jupyter+notebook,powershell" height="160" />
 </div>
 
 <div align="center">
