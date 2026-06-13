@@ -1,79 +1,99 @@
-# ¡Hola! Soy Asil Galán 👋
+<div align="center">
 
-<p align="left">
-  <a href="mailto:asilgalan083@icloud.com">
-    <img src="https://img.shields.io/badge/Email-asilgalan083%40icloud.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+# Asil Galán
 
-A mis 23 años, tengo claro que programar no es solo escribir código, sino construir soluciones que resuelvan problemas reales de negocio. Me considero una persona con mucha iniciativa; cofundé y lideré desde cero una plataforma SaaS de recargas móviles, lo que me aportó una visión completa del ciclo de vida del producto y una gran autonomía.
+**Backend Engineer · Cloud Native · SaaS Builder**
 
-Mi enfoque es 100% **Cloud Native**. Trabajo bajo la premisa de que el desarrollo no termina cuando el código funciona en local; me encargo de desplegar, asegurar la escalabilidad y gestionar la infraestructura.
+[![Email](https://img.shields.io/badge/asilgalan083%40icloud.com-0A0A0A?style=flat-square&logo=apple&logoColor=white)](mailto:asilgalan083@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asilgalan)
 
----
-
-### 🎓 Educación y Evolución Técnica
-* 💼 **Cofundador y Tech Lead** de plataforma SaaS de recargas móviles.
-* 🚀 **Máster Full Stack & Cloud** finalizado con éxito en Tajamar (+800 horas).
-* 🎓 Técnico Superior en **Desarrollo de Aplicaciones Web (DAW)**.
+</div>
 
 ---
 
-### 🐍 Mis Contribuciones
+Tengo 23 años y construyo software que funciona en producción, no solo en local. Cofundé y lideré desde cero una plataforma SaaS de recargas móviles, lo que me dio una visión completa del ciclo de vida de un producto: desde la arquitectura hasta el despliegue y la escalabilidad.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
-    <img alt="Animación de la culebrita de GitHub" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+Mi enfoque es **Cloud Native** por convicción. El código que no está desplegado, asegurado y monitoreado no está terminado.
 
 ---
 
-### 🚀 Tecnologías y Herramientas
+## Stack
 
-**Backend & Ecosistemas**
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**Backend**
 
-**Cloud, DevOps & Arquitectura**
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 **Frontend & Mobile**
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-**Inteligencia Artificial (Integraciones)**
-![](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
-![](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 
----
+**AI & Modelos**
 
-### 📜 Certificaciones Oficiales
-
-* 🛡️ **Microsoft Certified: Azure Developer Associate (AZ-204)**
-* ⚙️ **Microsoft Certified: Power Platform Developer (PL-400)**
-* ⏳ *En preparación:* **AWS Certified Developer Associate (DVA-C02)**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
 
-### 📊 Estadísticas
+## Certificaciones
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asilgalan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilgalan&layout=compact&theme=radical&hide=html,css,javascript,scss,shell,vue" alt="Lenguajes Backend más usados" width="48%" />
-</p>
+| Certificación | Estado |
+|---|---|
+| 🛡️ Azure Developer Associate — AZ-204 | ✅ Obtenida |
+| ⚙️ Power Platform Developer — PL-400 | ✅ Obtenida |
+| ☁️ AWS Certified Developer — DVA-C02 | 🔄 En preparación |
 
 ---
 
-### 🎯 Lo que Busco
-Quiero unirme a un equipo de desarrollo donde pueda aportar mi experiencia creando software real, escalable y en producción, mientras continúo profundizando en arquitectura cloud avanzada.
+## GitHub Stats
 
-📬 **¿Hablamos de tecnología o de nuevos retos?** Escríbeme a [asilgalan083@icloud.com](mailto:asilgalan083@icloud.com).
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asilgalan&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilgalan&layout=compact&theme=github_dark_dimmed&hide_border=true&hide=html,css,javascript,scss,shell,vue" height="160" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asilgalan/asilgalan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asilgalan/asilgalan/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/asilgalan/asilgalan/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## Experiencia destacada
+
+**Cofundador & Tech Lead — Plataforma SaaS de recargas móviles**
+- Arquitectura y desarrollo completo del sistema desde cero
+- Despliegue en producción con infraestructura cloud escalable
+- Gestión del ciclo de vida completo del producto
+
+---
+
+## Formación
+
+- **Máster Full Stack & Cloud** — Tajamar (+800h)
+- **Técnico Superior DAW** — Desarrollo de Aplicaciones Web
+
+---
+
+<div align="center">
+
+¿Tienes un reto técnico interesante? Escríbeme: [asilgalan083@icloud.com](mailto:asilgalan083@icloud.com)
+
+</div>
